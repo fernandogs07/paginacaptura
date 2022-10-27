@@ -2,9 +2,7 @@ const alunos = [
     {nome: 'Fernando', nota: Math.floor(Math.random() * 10)},
     {nome: 'Lucas', nota: Math.floor(Math.random() * 10)},
     {nome: 'Davi', nota: Math.floor(Math.random() * 10)},
-    {nome: 'Isaque', nota: Math.floor(Math.random() * 10)},
-    {nome: 'Dalton', nota: Math.floor(Math.random() * 10)},
-    {nome: 'Vagner', nota: Math.floor(Math.random() * 10)},
+    {nome: 'Isaque', nota: Math.floor(Math.random() * 10)}
 ]
 
 console.log(alunos)
